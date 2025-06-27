@@ -35,7 +35,4 @@ Passionate about building secure and innovative solutions at the intersection of
 
 ---
 
-## 📂 Featured Project
 
-### [test-work](https://github.com/OseagwinaExcellence/test-work)
-
