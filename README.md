@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Oseagwina Excellence!
 
-<!--
-**OseagwinaExcellence/OseagwinaExcellence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cyber Security Enthusiast | 💻 Software Engineer | 🎓 Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+
+Passionate about building secure and innovative solutions at the intersection of technology and creativity. Whether I'm writing code, analyzing systems, or learning new skills, I strive to make a positive impact in the world of cyber security and software engineering.
+
+- 🔐 **Profession:** Cyber Security, Software Engineer, Student  
+- 🛠️ **Top Skills:** HTML, CSS, Python, Bash  
+- 🏆 **Favorite Project:** [test-work](https://github.com/OseagwinaExcellence/test-work)  
+- 💬 **Bio/Tagline:** Always learning, always building, always securing.  
+- 🌐 **Social:** [X (Twitter): @Encrypt_El](https://x.com/Encrypt_El)
+
+---
+
+ ### 🌱 I’m currently learning ... 
+
+ - CSS (again)
+ - HTML (again)
+ 
+ --- 
+ ### 😄 Pronouns:
+ 
+ - Him/He 
+
+---
+
+### ⚡ Fun Facts
+
+- 🍿 Love watching anime and movies.
+- 📚 Enjoy reading manga, comics, and novels.
+
+---
+
+## 📂 Featured Project
+
+### [test-work](https://github.com/OseagwinaExcellence/test-work)
+
