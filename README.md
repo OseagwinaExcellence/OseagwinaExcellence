@@ -1,38 +1,23 @@
-# 👋 Hi, I'm Oseagwina Excellence!
+<h1 align="center">Hi 👋, I'm Excellence</h1>
+<h3 align="center">A Software Developer and Cyber Security Expert</h3>
 
-## 🛡️ Cyber Security Enthusiast | 💻 Software Engineer | 🎓 Student
+<p align="left"> <a href="https://x.com/Encrypt_Defi" target="blank"> <img src="https://img.shields.io/twitter/follow/Encrypt_Defi?logo=twitter&style=for-the-badge/" alt="kaldtechtitan" /></a> </p>
 
----
+- 👨‍💻 All of my projects are available at [---👨‍💻---](https://github.com/OseagwinaExcellence?tab=repositories)
 
-### 🌟 About Me
+- 💬 Ask me about **HTML, CSS, Python**
 
-Passionate about building secure and innovative solutions at the intersection of technology and creativity. Whether I'm writing code, analyzing systems, or learning new skills, I strive to make a positive impact in the world of cyber security and software engineering.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/Encrypt_Defi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Excellence" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oseagwina-excellence-oseobulu-046204306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/numerousoriabure/" height="30" width="40" /></a>
+</p>
 
-- 🔐 **Profession:** Cyber Security, Software Engineer, Student  
-- 🛠️ **Top Skills:** HTML, CSS, a bit of Python, Bash  
-- 🏆 **Favorite Project:** [test-work](https://github.com/OseagwinaExcellence/test-work)  
-- 💬 **Bio/Tagline:** Always learning, always building, always securing.  
-- 🌐 **Social:** [X (Twitter): @Encrypt_El](https://x.com/Encrypt_El)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/linux/linux.png" alt="linux" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/8180780?s=200&v=4" alt="parrot-security" width="40px" height="40px"></a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OseagwinaExcellence&show_icons=true&locale=en&layout=compact" alt="OseagwinaExcellence" /></p>
 
- ### 🌱 I’m currently learning ... 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OseagwinaExcellence&show_icons=true&locale=en" alt="OseagwinaExcellence" /></p>
 
- - CSS (again)
- - HTML (again)
- 
- --- 
- ### 😄 Pronouns:
- 
- - Him/He 
-
----
-
-### ⚡ Fun Facts
-
-- 🍿 Love watching anime and movies.
-- 📚 Enjoy reading manga, comics, and novels.
-
----
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OseagwinaExcellence&" alt="OseagwinaExcellence" /></p>
