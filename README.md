@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OseagwinaExcellence" alt="OseagwinaExcellence" /></a></p>
 
 <hr>
-<p align="left"> <a href="https://x.com/Encrypt_Defi" target="blank"> <img src="https://img.shields.io/twitter/follow/Encrypt_Defi?logo=twitter&style=for-the-badge/" alt="OseagwinaExcellence" /></a> </p>
+<p align="left"> <a href="https://x.com/Encrypt_Defi" target="_blank"> <img src="https://img.shields.io/twitter/follow/Encrypt_Defi?logo=twitter&style=for-the-badge/" alt="OseagwinaExcellence" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [-👨‍💻-](https://github.com/OseagwinaExcellence?tab=repositories)
 
@@ -16,8 +16,8 @@
 <hr>
 <h3 align="left">Connect with me @:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/oseagwina-excellence-oseobulu-046204306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/numerousoriabure/" height="30" width="40" /></a>
-  <a href="https://x.com/Encrypt_Defi" target="blank"><img align="center" src="https://www.thinkdesignagency.co.uk/wp-content/uploads/2023/07/Twitter-rebrands-as-X.jpg" alt="Excellence" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/oseagwina-excellence-oseobulu-046204306/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/numerousoriabure/" height="30" width="40" /></a>
+  <a href="https://x.com/Encrypt_Defi" target="_blank"><img align="center" src="https://www.thinkdesignagency.co.uk/wp-content/uploads/2023/07/Twitter-rebrands-as-X.jpg" alt="Excellence" height="50" width="50" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
