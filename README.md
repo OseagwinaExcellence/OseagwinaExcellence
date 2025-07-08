@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Excellence</h1>
-<h3 align="center">A Software Developer and Cyber Security Expert</h3>
+<h2 align="center">A Software Developer and Cyber Security Expert</h2>
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OseagwinaExcellence&label=Profile%20views&color=0e75b6&style=flat" alt="OseagwinaExcellence" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OseagwinaExcellence" alt="OseagwinaExcellence" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OseagwinaExcellence" alt="OseagwinaExcellence" /></a></p>
 
 <hr>
 <p align="left"> <a href="https://x.com/Encrypt_Defi" target="blank"> <img src="https://img.shields.io/twitter/follow/Encrypt_Defi?logo=twitter&style=for-the-badge/" alt="OseagwinaExcellence" /></a> </p>
@@ -23,8 +23,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" title="Bash"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/> </a> <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://toppng.com/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" alt="kali-linux" width="40px" height="40px" title="Kali Linux"/> <a href="https://www.kali.org/tools/gobuster/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjhC7RV8oLTimZlpaJ76iVybbe6FcKCbsF5Q&s" alt="gobuster" width="40px" height="40px" title="Gobuster"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/linux/linux.png" alt="linux" width="40" height="40" title="Linux"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/> </a> <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/8180780?s=200&v=4" title="Parrot Security" alt="parrot-security" width="40px" height="40px"/></a> <a href="https://www.vmware.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTecHZN5KbzmQaEZfFBbbQRqkacZ3DckpRPVQ&s" alt="vmware" title="VMware Workstation" width="40px" height="40px"/></a> <a href="https://www.virtualbox.org/" target="_blank"><img src="https://www.unixtutorial.org/images/software/virtualbox-logo.png" alt="vbox" title="VitrualBox" width="40px" height="40px"/></a> <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img src="https://datascientest.com/en/files/2024/05/windows-server-datascientest.jpg" alt="winserver" title="Windows Server" width="70px" height="70px"/></a> <a href="https://www.kali.org/tools/armitage/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUapDKiKgnJ7hAiAUV78nOIepyVgchVK2EAA&s" alt="armitage" title="Armitage" width="40px" height="40px"/></a> </p>
-  
 <hr>
+ <h3>My Badges:</h3>
+  <p><a href="https://www.credly.com/badges/fdd7cc63-13bc-44de-9bdc-642fa27fa2fd/public_url" target="_blank"><img src="https://images.credly.com/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob" alt="Ciso HTML essentials badges" width="90px" height="90px"/></a></p>
+ <hr>
 <div align="center">
   <img align="center" 
     src="https://github-readme-stats.vercel.app/api?username=OseagwinaExcellence&show_icons=true&locale=en&bg_color=000000&theme=dark" 
