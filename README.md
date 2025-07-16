@@ -4,7 +4,11 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OseagwinaExcellence&label=Profile%20views&color=0e75b6&style=flat" alt="OseagwinaExcellence" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OseagwinaExcellence" alt="OseagwinaExcellence" /></a></p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=OseagwinaExcellence" alt="OseagwinaExcellence" />
+  </a>
+</p>
 
 <hr>
 <p align="left"> <a href="https://x.com/Encrypt_Defi" target="_blank"> <img src="https://img.shields.io/twitter/follow/Encrypt_Defi?logo=twitter&style=for-the-badge/" alt="OseagwinaExcellence" /></a> </p>
