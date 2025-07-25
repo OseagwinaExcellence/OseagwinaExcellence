@@ -30,7 +30,7 @@
   <img align="center" 
     src="https://github-readme-stats.vercel.app/api?username=OseagwinaExcellence&show_icons=true&locale=en&bg_color=000000&theme=dark" 
     alt="OseagwinaExcellence"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OseagwinaExcellence&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&bg_color=000000" width="500px" height="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OseagwinaExcellence&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&bg_color=000000" width="400px" height="300px" />
   <a href="https://git.io/streak-stats">
     <img 
       src="https://streak-stats.demolab.com?user=OseagwinaExcellence&theme=dracula&background=000000" 
