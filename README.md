@@ -45,7 +45,7 @@
   ![VMware Workstation](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+ 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Armitage](https://img.shields.io/badge/armitage-grey?style=for-the-badge)
   ![Gobuster](https://img.shields.io/badge/gobuster-yellow?style=for-the-badge)
