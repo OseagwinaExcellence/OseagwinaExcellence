@@ -1,6 +1,6 @@
 <h1 align="end">Hello, I'm Excellence</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=excellenceoseagwina&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oseagwina-excellence-oseobulu-046204306/" target="_blank" rel="noopener noreferrer">
