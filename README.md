@@ -21,10 +21,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=excellenceoseagwina&theme=github" />
 </p>
 
-<p align="center">
-  Into Cyber Security and Software development. Currently learning Javascript.
-</p>
-
 ---
 
 ### 🛠️ Tools & Languages
